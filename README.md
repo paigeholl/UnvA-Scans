@@ -36,7 +36,7 @@ Set-ItemProperty -Path "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies
 <img src=https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_LxgvK7RykoYowV72XO.png width=400px>
 
 
-If your VM has a Network Security Group (NSG) attached, ensure there's a rule allowing inbound traffic from the Scan Engine. For this lab, we don't need a NSG but for practice/exposure, we created one [here.](https://github.com/paigeholl/VulnVM/blob/main/README.md)
+If your VM has a Network Security Group (NSG) attached, ensure there's a rule allowing inbound traffic from the Scan Engine. For this lab, we don't need a NSG but for practice/exposure, we created one [here.](https://github.com/paigeholl/Create-NSG/blob/main/README.md)
 
 ## **Create Basic Network Scan in Tenable:**
 
