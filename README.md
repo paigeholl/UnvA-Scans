@@ -126,7 +126,7 @@ Let’s analyze it to see what exactly the report trying to tell us
 
 NOTE: Results are sorted by severity (not necessarily remediation order)
 
-Click any vulnerability for details
+Click any vulnerability for details in Tenable
 
 Example: Microsoft Teams for Desktop < 25122.1415.xx.xxx Remote Code Execution (August 2025)
 
