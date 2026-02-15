@@ -1,6 +1,8 @@
 # **Scanning Windows: Unauthenticated vs. Authenticated**
 
-Vulnerability scanners can run in two modes: unauthenticated (network-only) and authenticated (with credentials). Unauthenticated scans only see what's visible from the outside—open ports and services—while authenticated scans log into the system to check installed software, missing patches, and configuration issues. We'll run both types against the same Windows VM to see the difference in depth and accuracy.
+Vulnerability scanners can run in two modes: unauthenticated (network-only) and authenticated (with credentials). Unauthenticated scans only see what's visible from the outside, i.e. open ports and services, while authenticated scans log into the system to check installed software, missing patches, and configuration issues. We'll run both types against the same Windows VM to see the difference in depth and accuracy.
+
+  ---
 
 Create a Windows 11 Pro Virtual Machine if needed.  [Click here to see steps.](https://github.com/paigeholl/VulnVM/blob/main/README.md)
 
